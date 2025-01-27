@@ -8,9 +8,7 @@
 Este proyecto es una aplicación web sencilla para gestionar y realizar sorteos de amigos secretos. Los usuarios pueden agregar nombres a una lista, gestionar la lista y seleccionar un amigo secreto de forma aleatoria.
 
 ### - Video explicando su funcionamiento
-<video src="
-https://github.com/user-attachments/assets/3839d0bc-fc00-4e49-8587-4efe4e126186 controls width="500">
-</video>
+https://github.com/user-attachments/assets/3839d0bc-fc00-4e49-8587-4efe4e126186
 
 
 ## Funcionalidades
