@@ -3,7 +3,7 @@
 # 💛 Amigo Secreto 💛
 
 </div>
-<img src="img/Principal.png" width= "500">
+<img src="img/Principal.png">
 
 Este proyecto es una aplicación web sencilla para gestionar y realizar sorteos de amigos secretos. Los usuarios pueden agregar nombres a una lista, gestionar la lista y seleccionar un amigo secreto de forma aleatoria.
 
