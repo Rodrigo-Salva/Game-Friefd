@@ -9,7 +9,7 @@ Este proyecto es una aplicación web sencilla para gestionar y realizar sorteos 
 
 ### - Video explicando su funcionamiento
 https://github.com/user-attachments/assets/3839d0bc-fc00-4e49-8587-4efe4e126186
-
+[Link del proyecto]([https://www.google.com](https://rodrigo-salva.github.io/Game-Friefd/))
 
 ## Funcionalidades
 
